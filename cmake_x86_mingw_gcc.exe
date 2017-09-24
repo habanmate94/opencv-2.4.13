@@ -9,4 +9,4 @@ cmake -G "MinGW Makefiles" \
 -DBUILD_PERF_TESTS=OFF \
 -DBUILD_GPU=OFF \
 -DBUILD_OPENCL=OFF \
-../sources/
+..
